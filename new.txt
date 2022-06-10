@@ -1,0 +1,5 @@
+name: Galina
+surname: Gutnik
+pets: 0
+salary: 10000$
+
