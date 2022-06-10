@@ -1,0 +1,5 @@
+movie:The Gentlemen,
+series: scrubs,
+food: seafood,
+season: autumn,
+country: Portugal
